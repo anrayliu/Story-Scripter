@@ -1,0 +1,59 @@
+background: start.jpg
+text: The dogsled race was about to begin.
+text: Julie's team of dogs were lined up at the starting gate.
+text: Julie stood behind them.
+text: The air was so cold that she could see her breath.
+text: Other teams were lined up too, and the dogs were excited.
+text: Julie kept her eyes on the clock.
+text: At exactly ten o'clock, she and the other racers yelled, "Mush!"
+text: The dogs knew that meant "Go!"
+background: dogs4.jpg
+text: They leapt forward and the race began!
+
+text: Julie had trained months for this race.
+text: She hoped she and her dogs would win.
+text: Every day, Julie's dogs practiced for hours.
+
+background: dogs.jpg
+text: How many dogs does Julie have?
+options: 6 7 8 9
+answer: 9
+text: 9 dogs!
+text: Now, they ran over snowy hills and down into frozen valleys.
+text: They stopped only to rest and eat.
+text: They wanted to stay ahead of the other teams.
+background: alaska.jpg
+text: The racers had to go a thousand miles across Alaska.
+text: Alaska is one of the coldest places on Earth.
+text: The dogs' thick fur coats helped keep them warm in the cold.
+comment: ask student how to spell 'snow'
+text: In many places along the route, the sn__ was deep.
+options: ow oe o wo
+answer: ow
+text: Pieces of ice were as sharp as a knife.
+text: The ice could cut the dogs' feet.
+background: dogs2.jpg
+text: To keep that from happening, the dogs wore special boots.
+
+text: At first, the dogs seemed to pull the sled very slowly.
+text: They were still getting used to the race.
+text: But on the third day out, they began to pull more quickly.
+text: They worked as a team and passed many of the other racers.
+background: dogs3.jpg
+
+text: Finally, they reached the finish line.
+text: They were first!
+text: It was a great day for Julie and her dogs.
+
+text: Were you paying attention? Where did Julie and her dogs race?
+options: Alaska Iraq Toronto
+answer: Alaska
+text: Great job!
+text: How did Julie protect her dogs?
+options: running training boots sleds
+answer: boots
+text: That's right, with special boots!
+text: What does "mush" mean?
+options: stop eat sit go
+answer: go
+text: Correct!

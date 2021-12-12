@@ -1,0 +1,46 @@
+background: sweets1.jpg
+text: Lara loved to eat sweets. 
+text: She tried to have some with every meal.
+text: Those kinds of foods just tasted really good to her.
+text: For breakfast, Lara had cereal with extra sugar on top.
+text: She also used chocolate milk instead of white milk.
+text: She drank some grape juice to make it healthier.
+text: It was very sweet.
+background: chocolate.jpg
+text: For lunch at school, she brought a chocolate bar.
+text: She had this with her school lunch, which was pizza.
+text: She had strawberry milk and another juice for drinks.
+text: Lara didn't like the pizza, so she just ate her snacks.
+text: She bought an ice cream for 50 cents, too.
+text: During class, her stomach felt weird, and she was very hyper.
+text: Later, she got tired and wanted to sleep.
+text: Then at gym class, she ran around and felt short of breath.
+background: icecream.jpg
+text: She didn't really like gym class.
+text: It was hard to run, and it made her chest hurt.
+text: Everyone else seemed faster than her.
+text: Before dinner, Lara had a handful of super spicy cheesy puffs.
+text: Then she had some soda to wash it down.
+text: By dinner, she wasn't hungry, but Mom made her eat.
+text: The broccoli was gross.
+text: She wanted more soda, but Mom made her drink milk.
+text: That was gross too, so she only had a couple sips.
+background: soda.jpg
+text: For dessert, she had some ice cream with chocolate syrup.
+text: She felt hyper again, ran around, and went to bed late.
+text: The next day, she was very tired.
+text: A few weeks later, Lara went to the doctor's for a checkup.
+text: The doctor said she needed to exercise more.
+text: They also said Lara needed to eat less sugar and fat.
+text: Even juice was bad, because it was filled with sugar.
+background: sweets2.jpg
+text: She could only have ice cream once a week.
+text: Candy and junk cereal for breakfast were gone.
+text: It was time to stop eating sugary food and more veggies.
+text: Mom started making Lara walk to the bus stop.
+text: She had to ride her bike for 30 minutes every day, too.
+text: After a while, she started feeling better.
+text: She also started doing better in school.
+text: Lara started to like gym class more.
+text: She missed the sweets less and less every day.
+text: But now, when she had a snack, it was a real treat!
